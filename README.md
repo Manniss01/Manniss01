@@ -71,6 +71,6 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Manniss01">
+    <img src="https://github.com/Manniss01">
 </a>
 <a href="https://github.com/Manniss01?tab=followers"><img src="https://img.shields.io/github/followers/Manniss01?label=Followers&style=social" alt="GitHub Badge"></a>
