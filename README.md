@@ -73,4 +73,5 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Manniss01">
 </a>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=436541" style='border:none;'></iframe>
 <a href="https://github.com/Manniss01?tab=followers"><img src="https://img.shields.io/github/followers/Manniss01?label=Followers&style=social" alt="GitHub Badge"></a>
